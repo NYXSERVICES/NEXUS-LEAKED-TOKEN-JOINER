@@ -4,7 +4,6 @@
 
 <h2>Project Screenshots:</h2>
 
-![Project Screenshot]
 ![GitHub Logo](https://raw.githubusercontent.com/NYXSERVICES/NEXUS-LEAKED-TOKEN-JOINER/main/images/Screenshot_1.png?token=GHSAT0AAAAAACT6RJPX7ORCF3DBIYAFPR6UZUBU3OA)
 <h2>🛠️ Installation Steps:</h2>
 
