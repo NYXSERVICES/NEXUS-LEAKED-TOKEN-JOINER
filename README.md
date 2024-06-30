@@ -4,7 +4,7 @@
 
 <h2>Project Screenshots:</h2>
 
-![GitHub Logo](https://raw.githubusercontent.com/NYXSERVICES/NEXUS-LEAKED-TOKEN-JOINER/main/images/Screenshot_1.png?token=GHSAT0AAAAAACT6RJPX7ORCF3DBIYAFPR6UZUBU3OA)
+![nexus](https://raw.githubusercontent.com/NYXSERVICES/NEXUS-LEAKED-TOKEN-JOINER/main/images/Screenshot_1.png?token=GHSAT0AAAAAACT6RJPX7ORCF3DBIYAFPR6UZUBU3OA)
 <h2>🛠️ Installation Steps:</h2>
 
 <p>1. Install Python.</p>
