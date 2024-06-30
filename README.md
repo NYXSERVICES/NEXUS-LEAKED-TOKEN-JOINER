@@ -1,6 +1,6 @@
 <h1 align="center" id="title">NEXUS TOKEN JOINER</h1>
 
-<p id="description">Leaking Nexus Token Joiner. We don't recommend using it because it lacks a captcha solver, so your tokens may not join properly.</p>
+<p id="description">Leaking Nexus Token Joiner. We don't recommend using it because it lacks a captcha solver, so your tokens won't join.</p>
 
 <h2>Project Screenshots:</h2>
 
